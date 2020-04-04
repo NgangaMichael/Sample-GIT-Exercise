@@ -1,3 +1,12 @@
 body {
     background-color: orange;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    background-color: black;
+    color: orange;
+    padding: 2rem;
+    font-size: larger;
 }
